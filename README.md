@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @guywhale
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
 
 <!---
 guywhale/guywhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
